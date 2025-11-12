@@ -33,3 +33,9 @@ src/wasm_exec.js
 *.log
 
 /docs/
+
+DerivedData
+DerivedData/*
+version-processed.h
+xcuserdata
+xcuserdata/*
